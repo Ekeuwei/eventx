@@ -1,0 +1,110 @@
+[
+  {
+    "title": "How to create your own computer!",
+    "category": "Entertainment",
+    "salesEndDate": "2022-11-24 10:56:47",
+    "fromDate": "2022-11-24 10:56:47",
+    "toDate": "2022-11-24 10:56:47",
+    "eventLogoUrl": "UzzKhgsH%+bocgLmVAsb.pdf",
+    "eventType": 0,
+    "location": [
+      {
+        "state": "Rivers",
+        "lga": "Yenagoa",
+        "town": "Yenagoa",
+        "street": "Assemblies of God Church, by transformer, Agudama-epie",
+        "num_entries": 3,
+        "capacity": 400,
+        "alert_point": 300
+      },
+      {
+        "state": "Bayelsa",
+        "lga": "Yenagoa",
+        "town": "Yenagoa",
+        "street": "Assemblies of God Church, by transformer, Agudama-epie",
+        "num_entries": 3,
+        "capacity": 400,
+        "alert_point": 300
+      },
+      {
+        "state": "Bayelsa",
+        "lga": "Yenagoa",
+        "town": "Yenagoa",
+        "street": "Assemblies of God Church, by primary school, Agudama-epie",
+        "num_entries": 3,
+        "capacity": 400,
+        "alert_point": 300
+      }
+    ],
+    "ticket": [
+      {
+        "ticket_name": "Gold",
+        "price": 2000.0,
+        "qty": 2
+      },
+      {
+        "ticket_name": "Gold",
+        "price": 2000.0,
+        "qty": 2
+      },
+      {
+        "ticket_name": "Silver",
+        "price": 2500.0,
+        "qty": 2
+      },
+      {
+        "ticket_name": "Regular",
+        "price": 1000.0,
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "title": "How to program in java Semina!",
+    "category": "Education",
+    "salesEndDate": "2022-11-24 10:56:47",
+    "fromDate": "2022-11-24 10:56:47",
+    "toDate": "2022-11-24 10:56:47",
+    "eventLogoUrl": "jOoeyjMg*U!9craHN0-M.jpg",
+    "eventType": 0,
+    "location": [
+      {
+        "state": "Bayelsa",
+        "lga": "Yenagoa",
+        "town": "Yenagoa",
+        "street": "Assemblies of God Church, by transformer, Agudama-epie",
+        "num_entries": 3,
+        "capacity": 400,
+        "alert_point": 300
+      },
+      {
+        "state": "Rivers",
+        "lga": "Yenagoa",
+        "town": "Yenagoa",
+        "street": "Assemblies of God Church, by primary school, Agudama-epie",
+        "num_entries": 3,
+        "capacity": 400,
+        "alert_point": 300
+      }
+    ],
+    "ticket": [
+      {
+        "ticket_name": "Gold",
+        "price": 2000.0,
+        "qty": 2
+      },
+      {
+        "ticket_name": "Silver",
+        "price": 2500.0,
+        "qty": 2
+      },
+      {
+        "ticket_name": "Regular",
+        "price": 1000.0,
+        "qty": 10
+      }
+    ]
+  },
+  {},
+  {}
+]

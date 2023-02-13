@@ -1,0 +1,29 @@
+.planner{
+    height: 100%;
+    padding: 0 .5rem;
+}
+
+/* Navigation */
+.planner--nav-bar{
+    background-color: #6c5dfa;
+    padding: .75rem .3rem;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav--title{
+    margin: 0 5px;
+}
+
+/* New Event */
+.image-preview{
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.image-preview img{
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
