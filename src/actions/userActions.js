@@ -67,8 +67,8 @@ export const login = (email, password) => async (dispatch) =>{
             headers: { 'Content-Type': 'application/json' }
         }
 
-        const { data } = await fetch("/.netlify/functions/middleware", {email, password} ,config);
-        // const { data } = await axios.post(`${BASE_URI}/auth/authenticate`, {email, password}, config)
+        // const { data } = await fetch("/.netlify/functions/middleware", {email, password} ,config);
+        const { data } = await axios.post(`${BASE_URI}/auth/authenticate`, {email, password}, config)
 
         localStorage.setItem('token', data.token)
 
