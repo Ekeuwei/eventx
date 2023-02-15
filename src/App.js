@@ -37,7 +37,7 @@ import EventsSearch from "./components/booking/EventsSearch";
 import Chooser from "./components/Chooser";
 
 // require('dotenv').config();
-export const BASE_URI = '';
+export const BASE_URI = 'https://ec2-54-245-130-236.us-west-2.compute.amazonaws.com:8443';
 
 function App() {
   const [stripeApiKey, setStripeApiKey] = useState("");
